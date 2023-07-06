@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -RF betty
+rm -Rf betty
