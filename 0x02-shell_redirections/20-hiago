@@ -1,0 +1,2 @@
+#!/bin/bash
+sort | grep -v [c and C] 
